@@ -1,5 +1,16 @@
 # Stage Pass - Event Ticket Platform
 
+![Java](https://img.shields.io/badge/Java-17-red?logo=openjdk)
+![SpringBoot](https://img.shields.io/badge/Spring_Boot-3.0-brightgreen?logo=springboot)
+![SpringSecurity](https://img.shields.io/badge/Security-Spring_Security-yellowgreen?logo=springsecurity)
+![OAuth2](https://img.shields.io/badge/Auth-OAuth2-blueviolet?logo=keycloak)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue?logo=postgresql)
+![React](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react)
+![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178C6?logo=typescript)
+![RESTAPI](https://img.shields.io/badge/API-REST-orange)
+![JUnit](https://img.shields.io/badge/Testing-JUnit-green?logo=junit5)
+![Tailwind](https://img.shields.io/badge/UI-Tailwind_CSS-38B2AC?logo=tailwindcss)
+
 A full‑stack event ticketing system for organizers and attendees.
 
 - Tech: Java, TypeScript, Spring Boot 3, Spring Security, OAuth2 (Keycloak), Lombok, PostgreSQL, React, REST API, JUnit, MapStruct, ZXing, Vite, Tailwind CSS

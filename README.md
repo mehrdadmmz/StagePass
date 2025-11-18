@@ -1,4 +1,4 @@
-# Stage Pass - Event Ticket Platform
+# Event Hub - Event Ticket Platform
 
 ![Java](https://img.shields.io/badge/Java-17-red?logo=openjdk)
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-3.0-brightgreen?logo=springboot)
